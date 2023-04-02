@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Leppy-oss
-- 👀 I’m interested in learning more about C++, Java, and Javascript.
+- 👀 I’m interested in learning more about C++, C#, Ruby, and Perl.
 - 🌱 I’m currently learning everything I'm interested in!
 
 <!---
