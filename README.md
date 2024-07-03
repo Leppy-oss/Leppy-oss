@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Leppy-oss
-- 👀 I’m interested in learning more about full-stack development and generative AI.
+- 👀 I’m interested full-stack development, control theory, and generative AI
 - 🌱 I’m currently learning more about Astro.js and Langchain!
 
 <!---
